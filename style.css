@@ -1,0 +1,18 @@
+.box1 {
+  width: 30%;
+  height: 200px;
+  background-color: red;
+}
+.box2 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+.box3 {
+  width: 30%;
+  height: 200px;
+  background-color: blue;
+}
+.box {
+  display: flex;
+}
